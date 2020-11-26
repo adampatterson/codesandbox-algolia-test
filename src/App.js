@@ -7,8 +7,8 @@ import { CustomHits } from './components';
 
 // @todo Read from site settings.
 const searchClient = algoliasearch(
-  'COXSVE6G57',
-  '0660cbba04cdb7e44a91c52ed2505136'
+  process.env.SMI_ALGOLIA_API_ID,
+  process.env.SMI_ALGOLIA_API_KEY
 );
 
 const initialFavorites = ['3LHdg2b5ER', '16684026', 'P7gYqoBKCr', 'D6U8brPLsj'];
@@ -30,7 +30,10 @@ const SearchRouter = () => {
   return (
     <Fragment>
       <div className="ais-InstantSearch row">
-        <InstantSearch indexName="smi_fresh" searchClient={searchClient}>
+        <InstantSearch
+          indexName={process.env.SMI_ALGOLIA_INDEX}
+          searchClient={searchClient}
+        >
           <div className="col-md-9 results">
             <div className="row p-5">
               <CustomHits
