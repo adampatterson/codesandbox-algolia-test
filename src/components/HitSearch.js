@@ -59,8 +59,8 @@ const HitSearch = (props) => {
   };
 
   let isFavorite = (active) => {
-    return active ? 'fav active' : 'fav';
-  };
+      return (active) ? 'fav active' : 'fav'
+  }
 
   let Details = () => {
     return (

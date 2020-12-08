@@ -22,7 +22,6 @@ import {
 import algoliasearch from 'algoliasearch/lite';
 
 import {
-  Tags,
   Banner,
   Slider,
   HitSearch,
@@ -224,19 +223,6 @@ const SearchRouter = () => {
                 ]}
               />
             </Panel>
-            {/* Tags made it slow
-                        <Panel header="Equipment">
-                            <p>
-                                Needs icons and probably a list of the top features to list.
-                            </p>
-                            <Tags
-                                attribute="equipment"
-                                limit={6}
-                                showMore={true}
-                                showMoreLimit="100"
-                            />
-                        </Panel>
-*/}
           </aside>
           <div className="col-md-9 results">
             <div className="row">
