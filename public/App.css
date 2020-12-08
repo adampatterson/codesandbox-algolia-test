@@ -7130,12 +7130,12 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-brands-400.eot?10edafac91e1d666264c8effd12fd38b);
-  src: url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-brands-400.eot?10edafac91e1d666264c8effd12fd38b?#iefix) format("embedded-opentype"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-brands-400.woff2?ff496de99efc36ce4f6f1e611ada7e65) format("woff2"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-brands-400.woff?607e85d507991d7f0d7e6e6819ac832c) format("woff"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-brands-400.ttf?7b31967daf0c01c330f5bb9766d9c79e) format("truetype"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-brands-400.svg?e93d868190d561487fc74c37cc73a7e7#fontawesome) format("svg"); }
+  src: url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-brands-400.eot?10edafac91e1d666264c8effd12fd38b);
+  src: url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-brands-400.eot?10edafac91e1d666264c8effd12fd38b?#iefix) format("embedded-opentype"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-brands-400.woff2?ff496de99efc36ce4f6f1e611ada7e65) format("woff2"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-brands-400.woff?607e85d507991d7f0d7e6e6819ac832c) format("woff"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-brands-400.ttf?7b31967daf0c01c330f5bb9766d9c79e) format("truetype"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-brands-400.svg?e93d868190d561487fc74c37cc73a7e7#fontawesome) format("svg"); }
 
 .fab {
   font-family: 'Font Awesome 5 Brands';
@@ -7145,11 +7145,11 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-duotone-900.eot?f7d52eeee92697a9217c3d0b79cb3c72);
-  src: url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-duotone-900.eot?f7d52eeee92697a9217c3d0b79cb3c72?#iefix) format("embedded-opentype"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-duotone-900.woff2?3665861ef3926b56170a92f12d1c40f9) format("woff2"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-duotone-900.woff?6383c1d513354d40a40c6526a3690aa4) format("woff"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-duotone-900.ttf?a2da25e8a0cb09414adfd1d5d470f623) format("truetype"); }
+  src: url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-duotone-900.eot?f7d52eeee92697a9217c3d0b79cb3c72);
+  src: url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-duotone-900.eot?f7d52eeee92697a9217c3d0b79cb3c72?#iefix) format("embedded-opentype"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-duotone-900.woff2?3665861ef3926b56170a92f12d1c40f9) format("woff2"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-duotone-900.woff?6383c1d513354d40a40c6526a3690aa4) format("woff"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-duotone-900.ttf?a2da25e8a0cb09414adfd1d5d470f623) format("truetype"); }
 
 .fad {
   position: relative;
@@ -12752,11 +12752,11 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 300;
   font-display: block;
-  src: url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-light-300.eot?40b5e77784556527ad2cbc55affc7454);
-  src: url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-light-300.eot?40b5e77784556527ad2cbc55affc7454?#iefix) format("embedded-opentype"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-light-300.woff2?1b0a9e43c154aa698c3f149ade78c287) format("woff2"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-light-300.woff?51c6a5bf54df5dd403b5ac757113e83c) format("woff"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-light-300.ttf?2cbba30b30ee00b9e4108ba8a373afb9) format("truetype"); }
+  src: url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-light-300.eot?40b5e77784556527ad2cbc55affc7454);
+  src: url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-light-300.eot?40b5e77784556527ad2cbc55affc7454?#iefix) format("embedded-opentype"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-light-300.woff2?1b0a9e43c154aa698c3f149ade78c287) format("woff2"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-light-300.woff?51c6a5bf54df5dd403b5ac757113e83c) format("woff"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-light-300.ttf?2cbba30b30ee00b9e4108ba8a373afb9) format("truetype"); }
 
 .fal {
   font-family: 'Font Awesome 5 Pro';
@@ -12766,11 +12766,11 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-regular-400.eot?9029dd1532f2048768fdd7dbb6981182);
-  src: url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-regular-400.eot?9029dd1532f2048768fdd7dbb6981182?#iefix) format("embedded-opentype"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-regular-400.woff2?f3beba98d10f221fd533c55345fc6823) format("woff2"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-regular-400.woff?1659594d8a29a81fabadeb1edc5ebc8c) format("woff"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-regular-400.ttf?b2614d59b4646078440f7aba5e3a45b4) format("truetype"); }
+  src: url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-regular-400.eot?9029dd1532f2048768fdd7dbb6981182);
+  src: url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-regular-400.eot?9029dd1532f2048768fdd7dbb6981182?#iefix) format("embedded-opentype"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-regular-400.woff2?f3beba98d10f221fd533c55345fc6823) format("woff2"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-regular-400.woff?1659594d8a29a81fabadeb1edc5ebc8c) format("woff"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-regular-400.ttf?b2614d59b4646078440f7aba5e3a45b4) format("truetype"); }
 
 .far {
   font-family: 'Font Awesome 5 Pro';
@@ -12780,11 +12780,11 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-solid-900.eot?eb397dfae3610842aea96778742d1bdb);
-  src: url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-solid-900.eot?eb397dfae3610842aea96778742d1bdb?#iefix) format("embedded-opentype"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-solid-900.woff2?25d740d42658b6e2c293ce7b3322aac7) format("woff2"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-solid-900.woff?22e3270b9b8f339e83d7ae0224f6b964) format("woff"),
-   url(/fonts/vendor/@fortawesome/fontawesome-pro/webfa-solid-900.ttf?ba00886256c29a890fb3841a7175b634) format("truetype"); }
+  src: url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-solid-900.eot?eb397dfae3610842aea96778742d1bdb);
+  src: url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-solid-900.eot?eb397dfae3610842aea96778742d1bdb?#iefix) format("embedded-opentype"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-solid-900.woff2?25d740d42658b6e2c293ce7b3322aac7) format("woff2"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-solid-900.woff?22e3270b9b8f339e83d7ae0224f6b964) format("woff"),
+   url(https://raw.githubusercontent.com/adampatterson/codesandbox-algolia-test/main/public/fonts/vendor/@fortawesome/fontawesome-pro/webfa-solid-900.ttf?ba00886256c29a890fb3841a7175b634) format("truetype"); }
 
 .fa,
 .fas {
